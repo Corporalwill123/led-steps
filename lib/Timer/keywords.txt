@@ -1,0 +1,6 @@
+Timer	KEYWORD1
+update	KEYWORD2
+reset	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+running	KEYWORD2

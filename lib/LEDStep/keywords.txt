@@ -1,0 +1,11 @@
+ledStep	KEYWORD1
+LEDStep	KEYWORD1
+ledSteps	KEYWORD2
+Step	KEYWORD2
+setMaxBrightness	KEYWORD2
+setStep	KEYWORD2
+currentBrightness	KEYWORD2
+currentColor	KEYWORD2
+show	KEYWORD2
+clear	KEYWORD2
+begin	KEYWORD2
