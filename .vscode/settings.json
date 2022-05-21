@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.cfg": "c",
+        "cstddef": "cpp"
+    }
+}
